@@ -27,7 +27,7 @@ Yá'át'ééh! My name is Kiko and I thrive in the world of technology and art. 
 
 <p align="left">
   <img src="https://img.shields.io/badge/JAVA-5382a1?style=for-the-badge&logo=JAVA&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=C++&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
