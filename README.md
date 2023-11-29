@@ -36,6 +36,7 @@ Yá'át'ééh! My name is Kiko and I thrive in the world of technology and art. 
 
 ### Currently Learning
 <p align="left">
+<img src="https://img.shields.io/badge/react%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=black" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" />
