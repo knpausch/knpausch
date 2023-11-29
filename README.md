@@ -1,6 +1,6 @@
 ### Hi there 👋, You can call me "Kiko"
 ### Junior Web Designer
-![Junior Web Designer](https://media.licdn.com/dms/image/C4E16AQGJkApMg5ZxVw/profile-displaybackgroundimage-shrink_350_1400/0/1663797366041?e=1699488000&v=beta&t=PhJvGdGyjaW_P2vUWEJcd0u4IELUOUwMFxqmvst10Bw)
+![rez-background](https://github.com/knpausch/knpausch/assets/19957834/72656d84-699d-441b-b011-046aca9715bf)
 
 Yá'át'ééh! My name is Kiko and I thrive in the world of technology and art. As a certified Front-End Software Developer, I enjoy building frontend accessible sites because I love logic, problem solving, and making things look pretty 🌸. In my free time, I enjoy weight lifting, meal prepping, playing video games and editing videos. Contact me for a chat, I love talking shop about code, tech, art, AI, video games, and algorithms! 🍵
 
